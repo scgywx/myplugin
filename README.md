@@ -1,0 +1,2 @@
+# myplugin
+golang plugin test
