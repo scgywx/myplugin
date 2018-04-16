@@ -7,8 +7,8 @@ import(
 )
 
 var (
-	modelVersion = 1002
-	modelName = "game2"
+	modelVersion = 1001
+	modelName = "game1"
 )
 
 type IEngine interface{
